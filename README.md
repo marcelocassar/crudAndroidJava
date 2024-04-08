@@ -16,7 +16,3 @@ Este projeto é uma implementação de um aplicativo Android que utiliza os prin
 ### Agradecimentos
 Gostaria de expressar minha gratidão ao Professor Wagner Machado pelas valiosas aulas compartilhadas no YouTube. Seu conhecimento e ensino foram fundamentais para o desenvolvimento deste projeto.
 
-### Código Fonte
-
-```java
-// Insira aqui o código fonte do seu projeto
